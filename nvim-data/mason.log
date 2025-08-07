@@ -1,0 +1,66 @@
+[INFO  3/29/2025 12:05:28 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  3/29/2025 12:05:28 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  3/29/2025 12:05:29 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  3/29/2025 12:05:30 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  3/29/2025 12:05:41 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  3/29/2025 12:05:46 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  3/29/2025 12:08:47 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  3/29/2025 12:08:48 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[INFO  3/29/2025 12:24:10 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  3/29/2025 12:24:13 PM] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  8/7/2025 12:10:52 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=clangd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  8/7/2025 12:10:52 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  8/7/2025 12:10:52 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=rust-analyzer) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  8/7/2025 12:10:52 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=shfmt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  8/7/2025 12:10:52 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=stylua) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  8/7/2025 12:10:54 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=shfmt) {
+  bypass_permit = true
+}
+[INFO  8/7/2025 12:10:54 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=shfmt)
+[INFO  8/7/2025 12:10:54 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=shfmt)
+[INFO  8/7/2025 12:10:54 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=rust-analyzer) {
+  bypass_permit = true
+}
+[INFO  8/7/2025 12:10:54 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=rust-analyzer)
+[INFO  8/7/2025 12:10:54 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=rust-analyzer)
+[INFO  8/7/2025 12:10:54 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=stylua) {
+  bypass_permit = true
+}
+[INFO  8/7/2025 12:10:54 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=stylua)
+[INFO  8/7/2025 12:10:54 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=stylua)
+[INFO  8/7/2025 12:10:57 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=lua-language-server) {
+  bypass_permit = true
+}
+[INFO  8/7/2025 12:10:57 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=lua-language-server)
+[INFO  8/7/2025 12:10:57 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=lua-language-server)
+[INFO  8/7/2025 12:10:57 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=clangd) {
+  bypass_permit = true
+}
+[INFO  8/7/2025 12:10:57 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=clangd)
+[INFO  8/7/2025 12:10:57 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=clangd)
+[INFO  8/7/2025 12:11:11 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=basedpyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  8/7/2025 12:11:23 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=basedpyright)
